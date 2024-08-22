@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Attendance_Management
-A new Flutter project.
+An Attendance Management System is a tool designed to track and manage the attendance of students or employees in an organization. The system automates the process of recording attendance, making it efficient and reducing the possibility of errors associated with manual entry. This system can be developed as a Flutter app, providing a user-friendly interface for users to mark their attendance, view attendance records, and generate attendance reports. The app will use the Montserrat font family for a clean and modern look
 
 Here I Attached Screenshots of My Project
 
